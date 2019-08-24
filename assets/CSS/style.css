@@ -28,3 +28,16 @@ img {
     margin-top: 25px;
    
 }
+
+a {
+    color: white;
+}
+
+.btn-primary {
+    background-color: #4aaaa5;
+    margin: 35px;
+}
+ 
+a:hover {
+    color: #4aaaa5;
+}
