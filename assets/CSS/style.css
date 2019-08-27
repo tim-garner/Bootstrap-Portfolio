@@ -41,3 +41,7 @@ a {
 a:hover {
     color: #4aaaa5;
 }
+
+.btn-primary:hover {
+    background-color: #777777;
+}
