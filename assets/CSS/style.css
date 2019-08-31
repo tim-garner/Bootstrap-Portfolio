@@ -30,7 +30,7 @@ img {
 }
 
 a {
-    color: white;
+    color: white
 }
 
 .btn-primary {
@@ -39,7 +39,7 @@ a {
 }
  
 a:hover {
-    color: #4aaaa5;
+    color: blue;
 }
 
 .btn-primary:hover {
