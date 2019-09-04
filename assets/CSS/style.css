@@ -45,3 +45,8 @@ a:hover {
 .btn-primary:hover {
     background-color: #777777;
 }
+
+.page-footer {
+    color: white;
+    background-color:#777777;
+}
