@@ -50,3 +50,29 @@ a:hover {
     color: white;
     background-color:#777777;
 }
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.flex-container > div {
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 20px;
+ 
+  }
+
+  .flex-container1 {
+    display: flex;
+    
+
+}
+
+.flex-container1 > div {
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 20px;
+  
+  }
