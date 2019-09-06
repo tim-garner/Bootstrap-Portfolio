@@ -76,3 +76,11 @@ a:hover {
     padding: 20px;
   
   }
+  
+  .card-link {
+      color: black;
+      text-align: inherit;
+  }
+  .card-link:hover {
+    color: #4aaaa5;
+  }
