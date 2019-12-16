@@ -84,3 +84,13 @@ a:hover {
   .card-link:hover {
     color: #4aaaa5;
   }
+
+  .imageplacer {
+      column-count: 3;
+    position: relative;
+   
+  }
+
+  #contactme {
+      font-size: larger;
+  }
